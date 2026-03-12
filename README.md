@@ -42,8 +42,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
  **TABULAR COLUMN:**
  <img width="896" height="432" alt="image" src="https://github.com/user-attachments/assets/6f4e3720-60be-44cb-ab6f-ef784a873a7a" />
 
-
-**CALCULATION:**
+   **CALCULATION:**
+   
 <img width="783" height="1600" alt="image" src="https://github.com/user-attachments/assets/d38b10ea-5502-40d6-8b15-75a5a6e403df" />
 
 
